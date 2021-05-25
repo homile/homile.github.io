@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Code"
+  - title: "Posts by Year"
     url: /year-archive/
   - title: "tag"
     url: /tags/

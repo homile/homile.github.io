@@ -95,9 +95,9 @@ analytics:
 # Site Author   사이트 운영자 정보
 author:
   name             : "Homile"
-  avatar           : "/assets/images/profil 1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profil2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "노력 해야하는 사람"  # 이름 아래 설명
-  location         : "Seoul,Korea"
+  location         : "Gyeonggi-do,Korea"
   email            : "homil2@naver.com"
   links:
     - label: "Email"
